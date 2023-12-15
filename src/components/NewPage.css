@@ -1,0 +1,10 @@
+<Route path="/1" element={<NewPage />} />
+                  <Route path="/2" element={<NewPage2 />} />
+  header .container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
