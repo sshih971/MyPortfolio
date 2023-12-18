@@ -10,9 +10,9 @@ const Welcome = () => {
 	return (
 		<div>
 			<Link to="/about">
-				<h1>My Name is Abbi</h1>
+				<h1>My Name is Sha</h1>
 			</Link>
-			<p>I'm a Web Developer</p>
+			<p>I'm a Front End Web Developer</p>
 			<Link to="/projects">
 				<p>Projects</p>
 			</Link>

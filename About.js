@@ -6,7 +6,7 @@ const About = () => {
         <div>
             <section>
                 <h2>About Me</h2>
-                <p>I'm a Full Stack Web Developer</p>
+                <p>I'm a Front End Web Developer</p>
             </section>
         </div>
     );
